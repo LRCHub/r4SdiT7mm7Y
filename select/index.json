@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "乃木坂46 『インフルエンサー』",
+  "base_artist": "乃木坂46",
+  "createdAt": "2025-12-18T02:55:20.592118Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "乃木坂46 『インフルエンサー』",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_乃木坂46_『インフルエンサー』_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "乃木坂46 『インフルエンサー』",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/02_乃木坂46_『インフルエンサー』_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "インフルエンサー・イズ・デッド",
+      "artist": "じーざす(ワンダフル☆オポチュニティ!)",
+      "has_synced": true,
+      "path": "select/03_インフルエンサー・イズ・デッド_じーざす(ワンダフル☆オポチュニティ!).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "インフルエンサー",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/04_インフルエンサー_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "インフルエンサー",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/05_インフルエンサー_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "インフルエンサー・イズ・デッド",
+      "artist": "Wonderful★opportunity!",
+      "has_synced": true,
+      "path": "select/06_インフルエンサー・イズ・デッド_Wonderful★opportunity!.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "インフルエンサー",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/07_インフルエンサー_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "インフルエンサー・イズ・デッド",
+      "artist": "じーざすP, WONDERFUL★OPPORTUNITY! feat. 鏡音リン, 鏡音レン",
+      "has_synced": false,
+      "path": "select/08_インフルエンサー・イズ・デッド_じーざすP,_WONDERFUL★OPPORTUNITY!_feat._鏡音リン,_鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "インフルエンサー・イズ・デッド",
+      "artist": "JesusP, Wonderful Opportunity feat. Kagamine, Rin, Kagamine, Len",
+      "has_synced": false,
+      "path": "select/09_インフルエンサー・イズ・デッド_JesusP,_Wonderful_Opportunity_feat._Kagamine,_Rin,_Kagamine,_Len.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "インフルエンサー",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/10_インフルエンサー_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "インフルエンサー・イズ・デッド",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/11_インフルエンサー・イズ・デッド_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "インフルエンサー・イズ・デッド",
+      "artist": "じーざすP",
+      "has_synced": true,
+      "path": "select/12_インフルエンサー・イズ・デッド_じーざすP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "インフルエンサー・イズ・デッド",
+      "artist": "ワンダフル☆オポチュニティ！",
+      "has_synced": false,
+      "path": "select/13_インフルエンサー・イズ・デッド_ワンダフル☆オポチュニティ!.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "インフルエンサー・イズ・デッド",
+      "artist": "じーざすP feat. 鏡音リン, 鏡音レン",
+      "has_synced": true,
+      "path": "select/14_インフルエンサー・イズ・デッド_じーざすP_feat._鏡音リン,_鏡音レン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インフルエンサー",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_インフルエンサー_乃木坂46.txt"
+    }
+  ]
+}
